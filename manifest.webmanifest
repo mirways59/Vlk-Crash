@@ -10,8 +10,7 @@
   "background_color": "#062c2c",
   "theme_color": "#073b35",
   "icons": [
-    {
-      "src": "icons/icon-192.png",
+"src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
